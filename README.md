@@ -1,2 +1,3 @@
 # Data Science Projects
- Personal DataScience project depository
+ Hi, 
+ This is my Personal DataScience project repository.
