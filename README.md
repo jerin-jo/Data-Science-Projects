@@ -1,3 +1,2 @@
-# Data Science Projects
- Hi, 
- This is my Personal DataScience project repository.
+# Food Chain Sales in University of Texas at Dallas!
+Hi, This project is my visualization project to create dynamic, interactive data visualizations in web browsers. I use D3.js which is a JavaScript library for visualizing data with HTML, SVG, and CSS. The data set contains the data on various categories and items of food available, the price of those items, and the gross sales numbers from those Menu items.
